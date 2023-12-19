@@ -15,7 +15,7 @@ You will need to install some package using `pip`:
 ## Usage
 $ python main.py <feature extraction method name(SIFT or ORB)>
 
-# for example
+### for example
 $ python main.py SIFT
 $ python main.py ORB
 $ python main.py  // SIFT is selected manually
