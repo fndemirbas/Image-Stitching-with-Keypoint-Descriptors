@@ -1,10 +1,10 @@
 # Image-Stitching-with-Keypoint-Descriptors
 It is aimed to obtain a final panorama image that will combine the subimages provided using key point identification methods (SIFT/SURF and ORB) and include all the scenes in the subimages.
 
-##IMPORTANT INFORMATION
+## IMPORTANT INFORMATION
 Since the method I used to create a panorama image from subimages is a bit long, you can export the dataset from a small number of images.
 
-##Requirement
+## Requirement
 - python3 (or higher)
 - opencv 3 (or higher)
 
